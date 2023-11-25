@@ -1,5 +1,3 @@
-Hoa Nguyen, 101268337
-
 Setup instructions for the database:
 
 -> open pgadmin for postgres
