@@ -22,4 +22,4 @@ Each required functions will be executed when the user choose to input number.
 
 
 YouTube Link: https://youtu.be/096NPT4F-SQ
-GitHub Repo: https://github.com/HoaKatie/StudentDatabaseApplication.git
+GitHub Repo: https://github.com/HoaKatie/StudentDatabaseApplication
